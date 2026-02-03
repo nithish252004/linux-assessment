@@ -1,0 +1,1 @@
+./softlink/dir2/original.txt

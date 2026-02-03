@@ -1,0 +1,5 @@
+total 0
+-rw-r--r-- 1 nithish nithish 0 Feb  2 07:25 sorted_files.txt
+-rw-r--r-- 1 nithish nithish 0 Feb  2 07:25 file3.txt
+-rw-r--r-- 1 nithish nithish 0 Feb  2 07:25 file2.txt
+-rw-r--r-- 1 nithish nithish 0 Feb  2 07:25 file1.txt
