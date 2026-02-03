@@ -1,4 +1,4 @@
 ## Execution Output Screenshot
 
-![Module 1 Execution Output](module1_results.jpeg)
+![Module 1 Execution Output](screenshots/module1_results.jpeg)
 
