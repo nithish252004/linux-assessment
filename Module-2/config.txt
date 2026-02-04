@@ -1,0 +1,15 @@
+# Web Server Configuration
+ENVIRONMENT=development
+
+# The address where the server listens
+LISTEN_ADDR=localhost
+PORT=8080
+
+# The database connection string
+DATABASE_URL=postgres://admin:password@localhost:5432/mydb
+
+# Redis Cache location
+REDIS_HOST=localhost
+
+# Security Settings
+ALLOW_CORS_FROM=http://localhost:3000
