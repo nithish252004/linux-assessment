@@ -23,7 +23,7 @@ COUNT=0
 while read -r line
 do
 	COUNT=$((COUNT+1))
-	if [ $COUNT -gt 1000 ]; then
+	if [ $COUNT -gt 50 ]; then
 		break
 	fi
 
