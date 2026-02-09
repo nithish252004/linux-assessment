@@ -1,0 +1,36 @@
+[
+  {
+    "layers": {
+      "frame": {
+        "frame.time": "Feb 08, 2026 10:00:00 IST"
+      },
+      "wlan": {
+        "wlan.fc.type": "2",
+        "wlan.fc.subtype": "8"
+      }
+    }
+  },
+  {
+    "layers": {
+      "frame": {
+        "frame.time": "Feb 08, 2026 10:00:01 IST"
+      },
+      "wlan": {
+        "wlan.fc.type": "0",
+        "wlan.fc.subtype": "4"
+      }
+    }
+  },
+  {
+    "layers": {
+      "frame": {
+        "frame.time": "Feb 08, 2026 10:00:02 IST"
+      },
+      "wlan": {
+        "wlan.fc.type": "1",
+        "wlan.fc.subtype": "11"
+      }
+    }
+  }
+]
+
