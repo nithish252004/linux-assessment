@@ -1,9 +1,9 @@
-"frame.time": "Feb 08, 2026 10:00:00.000000000 IST",
+"frame.time": "Feb 08, 2026 10:00:00 IST"
 "wlan.fc.type": "2",
 "wlan.fc.subtype": "8"
-"frame.time": "Feb 08, 2026 10:00:01.000000000 IST",
+"frame.time": "Feb 08, 2026 10:00:01 IST"
 "wlan.fc.type": "0",
 "wlan.fc.subtype": "4"
-"frame.time": "Feb 08, 2026 10:00:02.000000000 IST",
+"frame.time": "Feb 08, 2026 10:00:02 IST"
 "wlan.fc.type": "1",
 "wlan.fc.subtype": "11"
